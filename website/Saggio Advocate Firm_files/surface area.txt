@@ -1,0 +1,40 @@
+SURFACA AREA
+l = int(input("enter length"))
+l = int(input("enter length"))
+area = l*l
+print("the area is:", area)
+SA = 6*(area)
+print("the SA is:", SA)
+ii) A closed cuboid
+    VOLUME
+    l=int(input("enter length"))
+    l=int(input("enter width"))
+    l=int(input("enter height"))
+    volume=l*w*h
+    print("the volume is:", volume)
+    # OUTPUTenter length 60 enter width 50 enter height 12 the volume is : 3600
+    
+    
+    
+
+    SURFACE AREA
+    l=int(input("enter length"))
+    w=int(input("enter width"))
+    h=int(input("enter height"))
+    area1=l*w
+    area2=l*h
+    area3=w*h
+    print("the area1  is:", area1)
+    print("the area2  is:", area2)
+    print("the area3  is:", area3)
+    surface=2*(area1+area2+area3)
+    print("the surface is:", surface)
+   
+   #OUTPUT
+   # enter length25
+   #enter width15
+   # enter height8
+   # the area1  is: 375
+   # the area2  is: 200
+   # the area3  is: 120
+   # the surface is: 1390
